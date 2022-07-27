@@ -113,6 +113,15 @@
 * 2013年3月 豊田工業高等専門学校 電気・電子システム工学科卒
 * 研究内容：Bi系超伝導体の結晶構造の解析
 
+## 資格
+
+| 資格名  |  取得時期  |
+| ---- | ---- |
+|  AWS Certified Solutions Architect - Associate  | 2021年8月 |
+|  MOS Office Excel 2016 Expert  | 2019年05月 | 
+|  TOEIC スコア810  | 2018年12月 | 
+| STEP BULATS SPEAKING B2, WRITING B2  | 2013年4月 | 
+
 ## 登壇歴(社外)
 
 |  Date  |  Event  | Slide |
