@@ -83,6 +83,8 @@
   * [RailsのActiveRecord::AttributeMethods::Dirtyを使ってみた](https://tech.stmn.co.jp/entry/2021/04/22/100133)
   * [名前空間を用いたQuickSight上でのマルチテナントの実現](https://tech.stmn.co.jp/entry/2022/04/18/135545)
   * [QuickSightを利用してカスタマイズしたダッシュボードを埋め込む](https://tech.stmn.co.jp/entry/2022/08/03/122204)
+  * [QuickSight SPICEデータのLambda関数を用いた自動更新処理](https://tech.stmn.co.jp/entry/2022/08/05/091212)
+  * [QuickSightのSPICEデータ使用量をLambdaで監視している話](https://tech.stmn.co.jp/entry/2022/08/08/090850)
 
 ### 三菱重工業株式会社：2013/4 ~ 2021/1:正社員
 
