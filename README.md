@@ -7,7 +7,7 @@
 | Name | 田中 章悟(Shogo Tanaka)|
 |  ----  |  ----  |
 | Qiita |https://qiita.com/shogo452 |
-|  -  |  -  |
+|    |  https://zenn.dev/shogo452  |
 
 ## 概要
 
