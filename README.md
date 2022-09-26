@@ -1,6 +1,6 @@
 # Curriclum-Vitae
 
-最終更新日 2022/7/24
+最終更新日 2022/9/26
 
 ## 基本情報
 
@@ -129,4 +129,4 @@
 
 |  Date  |  Event  | Slide |
 | ---- | ---- |---- |
-|  2022/9頃  |  QuickSightに関して登壇予定  |  -  |
+|  2022/9/26  | [BigData-JAWS 勉強会#21](https://jawsug-bigdata.connpass.com/event/257903/) |  [マルチテナントSaaSにおけるAmazon QuickSightの活用例](https://speakerdeck.com/shogo452/marutitenantosaasniokeruamazon-quicksightnohuo-yong-li)  |
