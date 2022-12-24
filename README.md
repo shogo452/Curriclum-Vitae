@@ -1,6 +1,6 @@
 # Curriclum-Vitae
 
-最終更新日 2022/9/26
+最終更新日 2022/12/24
 
 ## 基本情報
 
@@ -45,7 +45,7 @@
 
 ### 株式会社スタメン：2021/2 ~ 現在:正社員
 
-サーバーサイドエンジニアとして入社し、エンゲージメント経営プラットフォームサービス「[TUNAG](https://tunag.jp/ja/)」の機能改善、新機能開発に従事。
+サーバーサイドエンジニアとして入社し、エンゲージメント経営プラットフォームサービス「[TUNAG](https://biz.tunag.jp/)」の機能改善、新機能開発に従事。
 
 | 期間 |内容| 役割/開発チーム規模 |
 | ---- | ---- | ---- |
@@ -55,7 +55,7 @@
 | 2021/10〜2021/11| ・[タイムトラベル投稿機能](https://prtimes.jp/main/html/rd/p/000000040.000023589.html)の開発<br />・SRE業務(運用・監視・コスト管理) |サーバーサイドエンジニア/4名程度|
 | 2021/11〜2022/1| ・[タスク依頼機能PC版](https://prtimes.jp/main/html/rd/p/000000065.000023589.html)の開発<br />・SRE業務(運用・監視・コスト管理) |サーバーサイドエンジニア/4名程度|
 | 2022/1〜2022/7| ・[カスタムダッシュボード機能](https://prtimes.jp/main/html/rd/p/000000062.000023589.html)のインフラ構築、<br />サーバーサイド、フロントエンドの開発<br />・SRE業務(運用・監視・コスト管理) |フルスタックエンジニア/4名程度|
-|  2022/8〜現在  |  ・カスタムダッシュボード機能の拡張<br />・SRE業務(運用・監視・コスト管理)  | フルスタックエンジニア/4名程度 |
+|  2022/8〜現在  |  ・カスタムダッシュボード機能の拡張<br />・チャットタスク機能の開発<br />・IPアドレス制限機能の開発<br />・SRE業務(運用・監視・コスト管理)  | フルスタックエンジニア/4名程度 |
 
 #### 概要
 
@@ -130,3 +130,4 @@
 |  Date  |  Event  | Slide |
 | ---- | ---- |---- |
 |  2022/9/26  | [BigData-JAWS 勉強会#21](https://jawsug-bigdata.connpass.com/event/257903/) |  [マルチテナントSaaSにおけるAmazon QuickSightの活用例](https://speakerdeck.com/shogo452/marutitenantosaasniokeruamazon-quicksightnohuo-yong-li)  |
+|  2022/12/23  | [JAWS-UG 名古屋 2022年 "re:Invent"の復習~忘年会~](https://jawsug-nagoya.doorkeeper.jp/events/146962) |  [Amazon QuickSightのアップデート -re:Invent 2022の復習&2022年ハイライト-](https://speakerdeck.com/shogo452/amazon-quicksightnoatupudeto-re-invent-2022nofu-xi-and-2022nian-hairaito)  |
