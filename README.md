@@ -1,6 +1,6 @@
 # Curriclum-Vitae
 
-最終更新日 2022/12/24
+最終更新日 2023/2/14
 
 ## 基本情報
 
@@ -28,7 +28,7 @@
   * Rails
 * インフラ関係
   * AWS
-    * EC2, ECS, RDS, CloudWatch, S3, Route53, CloudFormation, Athena, Lambda, QuickSight, EventBridge, CostExplorer, IAM, ACM
+    * EC2, ECS, RDS, CloudWatch, S3, Route53, CloudFormation, Athena, Lambda, QuickSight, EventBridge, CostExplorer, IAM, ACM, CodeDeploy, CodeBuild, OpenSeach Service, ElastiCache, WAF, CloudTrail, Glue, Elemental MediaConvert, Systems Manager, SNS, SES
   * Docker
 * ツール、その他
   * Slack
@@ -55,7 +55,8 @@
 | 2021/10〜2021/11| ・[タイムトラベル投稿機能](https://prtimes.jp/main/html/rd/p/000000040.000023589.html)の開発<br />・SRE業務(運用・監視・コスト管理) |サーバーサイドエンジニア/4名程度|
 | 2021/11〜2022/1| ・[タスク依頼機能PC版](https://prtimes.jp/main/html/rd/p/000000065.000023589.html)の開発<br />・SRE業務(運用・監視・コスト管理) |サーバーサイドエンジニア/4名程度|
 | 2022/1〜2022/7| ・[カスタムダッシュボード機能](https://prtimes.jp/main/html/rd/p/000000062.000023589.html)のインフラ構築、<br />サーバーサイド、フロントエンドの開発<br />・SRE業務(運用・監視・コスト管理) |フルスタックエンジニア/4名程度|
-|  2022/8〜現在  |  ・カスタムダッシュボード機能の拡張<br />・チャットタスク機能の開発<br />・IPアドレス制限機能の開発<br />・SRE業務(運用・監視・コスト管理)  | フルスタックエンジニア/4名程度 |
+|  2022/8〜2022/12  |  ・カスタムダッシュボード機能の拡張<br />・チャットタスク機能の開発<br />・IPアドレス制限機能の開発<br />・SRE業務(運用・監視・コスト管理)  | フルスタックエンジニア/4名程度 |
+|  2023/1〜現在  |  ・カスタムプラン機能の拡張<br />・SRE業務(運用・監視・コスト管理・障害対応責任者)<br />・セキュリティシートの回答  | フルスタックエンジニア/3名程度 |
 
 #### 概要
 
