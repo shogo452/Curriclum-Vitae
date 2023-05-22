@@ -135,4 +135,4 @@
 |  2022/12/23  | [JAWS-UG 名古屋 2022年 "re:Invent"の復習 -忘年会-](https://jawsug-nagoya.doorkeeper.jp/events/146962) |  [Amazon QuickSightのアップデート -re:Invent 2022の復習&2022年ハイライト-](https://speakerdeck.com/shogo452/amazon-quicksightnoatupudeto-re-invent-2022nofu-xi-and-2022nian-hairaito)  |
 |  2023/1/21  | [NGK2023S](https://ngk2022s.connpass.com/event/265837/) |  [5分で分かるドラッカー風エクササイズ](https://speakerdeck.com/shogo452/5fen-defen-karudoratukafeng-ekusasaizu)  |
 |  2023/3/24  | [【LT会】この技術書がすごい in 名古屋](https://nagoya-it.connpass.com/event/274872/) |  [モブプログラミングの理解を深めた話](https://speakerdeck.com/shogo452/mobupuroguramingunoli-jie-woshen-metahua)  |
-|  2023/5/23  | [JAWS-UG朝会 #45](https://jawsug-asa.connpass.com/event/274687/) |  [Amazon EventBridge Schedulerを用いて Amazon QuickSightの運用を改善した話](https://speakerdeck.com/shogo452/amazon-eventbridge-schedulerwoyong-ite-amazon-quicksightnoyun-yong-wogai-shan-sitahua))  |
+|  2023/5/23  | [JAWS-UG朝会 #45](https://jawsug-asa.connpass.com/event/274687/) |  [Amazon EventBridge Schedulerを用いて Amazon QuickSightの運用を改善した話](https://speakerdeck.com/shogo452/amazon-eventbridge-schedulerwoyong-ite-amazon-quicksightnoyun-yong-wogai-shan-sitahua)  |
