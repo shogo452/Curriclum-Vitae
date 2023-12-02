@@ -90,6 +90,7 @@
   * [QuickSight SPICEデータのLambda関数を用いた自動更新処理](https://tech.stmn.co.jp/entry/2022/08/05/091212)
   * [QuickSightのSPICEデータ使用量をLambdaで監視している話](https://tech.stmn.co.jp/entry/2022/08/08/090850)
   * [Rubyを用いたAWS LambdaからSlackに通知する仕組みを作った話](https://zenn.dev/stmn_inc/articles/6869d707b3af70)
+  * [TUNAGのDBをAurora MySQL v3にアップグレードしました](https://tech.stmn.co.jp/entry/2023/11/30/115509)
 
 ### 三菱重工業株式会社：2013/4 ~ 2021/1:正社員
 
@@ -139,3 +140,4 @@
 |  2023/1/21  | [NGK2023S](https://ngk2022s.connpass.com/event/265837/) |  [5分で分かるドラッカー風エクササイズ](https://speakerdeck.com/shogo452/5fen-defen-karudoratukafeng-ekusasaizu)  |
 |  2023/3/24  | [【LT会】この技術書がすごい in 名古屋](https://nagoya-it.connpass.com/event/274872/) |  [モブプログラミングの理解を深めた話](https://speakerdeck.com/shogo452/mobupuroguramingunoli-jie-woshen-metahua)  |
 |  2023/5/23  | [JAWS-UG朝会 #45](https://jawsug-asa.connpass.com/event/274687/) |  [Amazon EventBridge Schedulerを用いて Amazon QuickSightの運用を改善した話](https://speakerdeck.com/shogo452/amazon-eventbridge-schedulerwoyong-ite-amazon-quicksightnoyun-yong-wogai-shan-sitahua)  |
+|  2023/11/22  | [【ハイブリッド開催】BtoB SaaSのSRE奮闘事例秋まつり](https://stmn.connpass.com/event/298576/) |  [SREチーム立ち上げまでの変遷と取り組み事例](https://speakerdeck.com/shogo452/sretimuli-tishang-gemadenobian-qian-toqu-rizu-mishi-li) |
