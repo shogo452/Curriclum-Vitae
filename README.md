@@ -131,6 +131,12 @@
 |  TOEIC スコア810  | 2018年12月 | 
 | STEP BULATS SPEAKING B2, WRITING B2  | 2013年4月 | 
 
+## 業務外活動
+
+|  Date  |  Event/Comunity  | Details |
+| ---- | ---- |---- |
+| 2022/12〜 | JAWS-UG 名古屋支部 | 運営スタッフ |
+
 ## 登壇歴(社外)
 
 |  Date  |  Event  | Slide |
@@ -141,3 +147,4 @@
 |  2023/3/24  | [【LT会】この技術書がすごい in 名古屋](https://nagoya-it.connpass.com/event/274872/) |  [モブプログラミングの理解を深めた話](https://speakerdeck.com/shogo452/mobupuroguramingunoli-jie-woshen-metahua)  |
 |  2023/5/23  | [JAWS-UG朝会 #45](https://jawsug-asa.connpass.com/event/274687/) |  [Amazon EventBridge Schedulerを用いて Amazon QuickSightの運用を改善した話](https://speakerdeck.com/shogo452/amazon-eventbridge-schedulerwoyong-ite-amazon-quicksightnoyun-yong-wogai-shan-sitahua)  |
 |  2023/11/22  | [【ハイブリッド開催】BtoB SaaSのSRE奮闘事例秋まつり](https://stmn.connpass.com/event/298576/) |  [SREチーム立ち上げまでの変遷と取り組み事例](https://speakerdeck.com/shogo452/sretimuli-tishang-gemadenobian-qian-toqu-rizu-mishi-li) |
+|  2023/12/18  | [JAWS-UG 名古屋 2023年 AWS re:Inventの復習](https://jawsug-nagoya.doorkeeper.jp/events/165969) |  [Amazon QuickSightのアップデート - re:Invent 2023 & 2023年ハイライト -](https://speakerdeck.com/shogo452/amazon-quicksightnoatupudeto-re-invent-2023-and-2023nian-hairaito) |
