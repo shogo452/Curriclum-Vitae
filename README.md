@@ -45,7 +45,7 @@
 
 ## 職歴
 
-### 株式会社東雲火山:2024/1 ~ 現在(業務委託)
+### 株式会社東雲火山：2024/1 ~ 現在(業務委託)
 
 API Gateway + Lambda(serverless-express)のAPI用のインフラをTerraformを用いて構築
 
