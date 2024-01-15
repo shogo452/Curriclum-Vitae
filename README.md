@@ -1,6 +1,6 @@
 # Curriclum-Vitae
 
-最終更新日 2023/12/24
+最終更新日 202４/０１/１５
 
 ## 基本情報
 
@@ -12,7 +12,7 @@
 
 ## 概要
 
-* ソフトウェアエンジニア
+* SRE
 * インフラ、バックエンド開発がメイン
 * 現職は株式会社スタメン
 
@@ -31,6 +31,7 @@
   * AWS
     * EC2, ECS, RDS, CloudWatch, S3, Route53, CloudFormation, Athena, Lambda, QuickSight, EventBridge, CostExplorer, IAM, ACM, CodeDeploy, CodeBuild, OpenSeach Service, ElastiCache, WAF, CloudTrail, Glue, Elemental MediaConvert, Systems Manager, SNS, SES
   * Docker
+  * Terraform
 * ツール、その他
   * Slack
   * Backlog
@@ -44,7 +45,11 @@
 
 ## 職歴
 
-### 株式会社スタメン：2021/2 ~ 現在:正社員
+### 株式会社東雲火山:2024/1 ~ 現在(業務委託)
+
+API Gateway + Lambda(serverless-express)のAPI用のインフラをTerraformを用いて構築
+
+### 株式会社スタメン：2021/2 ~ 現在(正社員)
 
 バックエンドエンジニアとして入社し、エンゲージメント経営プラットフォームサービス「[TUNAG](https://biz.tunag.jp/)」の機能改善、新機能開発に従事。
 
@@ -81,6 +86,7 @@
   * 基盤整備
     * Aurora MySQLのバージョンアップ
     * 監視アラートの見直し
+    * Sentryの導入
 
 #### その他
 
