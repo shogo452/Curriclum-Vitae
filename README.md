@@ -1,6 +1,6 @@
 # Curriclum-Vitae
 
-最終更新日 2024/01/15
+最終更新日 2024/01/22
 
 ## 基本情報
 
@@ -68,7 +68,7 @@ API Gateway + Lambda(serverless-express)のAPI用のインフラをTerraformを�
 #### 概要
 
 * 入社後は主にRuby on Railsを用いたバックエンドの機能実装をメインに担当。 
-* バックエンド開発と並行してSRE業務にも従事。2023年9月からSREとしてインフラメインで業務に従事。
+* バックエンド開発と並行してSRE業務にも従事。2023年7月からSREとしてインフラメインで業務に従事。
   * 監視・障害対応
     * CloudWatchやBugsnagのアラート対応
     * CloudWatchのメトリクス監視
