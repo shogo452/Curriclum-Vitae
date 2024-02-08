@@ -98,6 +98,9 @@ API Gateway + Lambda(serverless-express)のAPI用のインフラをTerraformを�
   * [QuickSightのSPICEデータ使用量をLambdaで監視している話](https://tech.stmn.co.jp/entry/2022/08/08/090850)
   * [Rubyを用いたAWS LambdaからSlackに通知する仕組みを作った話](https://zenn.dev/stmn_inc/articles/6869d707b3af70)
   * [TUNAGのDBをAurora MySQL v3にアップグレードしました](https://tech.stmn.co.jp/entry/2023/11/30/115509)
+* 社内表彰の受賞
+  * 2022年12月：ベストプロダクト賞
+  * 2023年12月：ベストプロダクト賞 & 全社MVP   
 
 ### 三菱重工業株式会社：2013/4 ~ 2021/1:正社員
 
