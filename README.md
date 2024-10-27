@@ -1,6 +1,6 @@
 # Curriclum-Vitae
 
-最終更新日 2024/09/16
+最終更新日 2024/10/27
 
 ## 基本情報
 
@@ -9,7 +9,7 @@
 | Qiita |https://qiita.com/shogo452 |
 |  Zenn  |  https://zenn.dev/shogo452  |
 |  Speaker Deck  |  https://speakerdeck.com/shogo452 |
-|  note  |  [https://speakerdeck.com/shogo452](https://note.com/shogo452/) |
+|  note  |  https://note.com/shogo452/ |
 
 ## 概要
 
@@ -32,25 +32,34 @@
   * AWS
     * EC2, ECS, RDS, CloudWatch, S3, Route53, CloudFormation, Athena, Lambda, QuickSight, EventBridge, CostExplorer, IAM, ACM, CodeDeploy, CodeBuild, OpenSeach Service, ElastiCache, WAF, CloudTrail, Glue, Elemental MediaConvert, Systems Manager, SNS, SES
   * Docker
+  * Kubernetes
   * Terraform
 * ツール、その他
   * Slack
   * Backlog
-  * Docbase
+  * Docbase/Notion
   * Bugsnag
+  * Sentry
   * Sendgrid
   * Datadog
   * Github
-  * CI/CD(CircleCI)
-  * Figma 
+  * CI/CD(CircleCI, Github Actions)
+  * Figma
+  * Bytebase
 
 ## 職歴
 
 ### note株式会社：2024/6 ~ 現在(正社員)
 
+SREとして入社し、[note](https://note.com/)のインフラの新規構築・運用業務に従事。
+
 ### 株式会社東雲火山：2024/1 ~ 現在(業務委託)
 
-API Gateway + Lambda(serverless-express)のAPI用のインフラをTerraformを用いて構築
+Terraformを用いた下記のインフラ構築に従事。
+
+* API Gateway + Lambda(serverless-express)の構築、CI・CD環境の構築
+* ECSを用いた非同期処理サーバーの構築、CI/CD環境の構築
+* CloudFront+S3による静的サイトのホスティング、デプロイ環境の構築
 
 ### 株式会社スタメン：2021/2 ~ 2024/5
 
@@ -149,7 +158,7 @@ API Gateway + Lambda(serverless-express)のAPI用のインフラをTerraformを�
 
 |  Date  |  Event/Comunity  | Details |
 | ---- | ---- |---- |
-| 2022/12〜 | JAWS-UG 名古屋支部 | 運営スタッフ |
+| 2022/12〜2023/12 | JAWS-UG 名古屋支部 | 運営スタッフ |
 
 ## 登壇歴(社外)
 
