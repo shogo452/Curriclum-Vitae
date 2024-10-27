@@ -9,7 +9,7 @@
 | Qiita |https://qiita.com/shogo452 |
 |  Zenn  |  https://zenn.dev/shogo452  |
 |  Speaker Deck  |  https://speakerdeck.com/shogo452 |
-|  note  |  https://note.com/shogo452/ |
+|  note  |  https://note.com/shogo452 |
 
 ## 概要
 
